@@ -49,6 +49,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://hk.deliveroo.news/news/戶戶送分享本地咖啡外送文化的五大特點- .html</loc>
+    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://hk.deliveroo.news/news/戶戶小廚-deliveroo-editions-表現卓越-餐廳夥伴營運三個月已錄得高達-200-營業額增長.html</loc>
     <lastmod>2018-10-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -98,6 +104,12 @@
   </url>
   <url>
     <loc>https://hk.deliveroo.news/contact/</loc>
+    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://hk.deliveroo.news/tag/coffee.html</loc>
     <lastmod>2018-10-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
