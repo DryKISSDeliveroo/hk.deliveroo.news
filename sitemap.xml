@@ -25,6 +25,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://hk.deliveroo.news/news/戶戶送公布2018年全球人士最愛100大美食.html</loc>
+    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://hk.deliveroo.news/news/戶戶送與眾同賀「光棍節」- -送出港幣-1-111-現金賞.html</loc>
     <lastmod>2018-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -158,6 +164,12 @@
   </url>
   <url>
     <loc>https://hk.deliveroo.news/contact/</loc>
+    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://hk.deliveroo.news/tag/deliveroo-100.html</loc>
     <lastmod>2018-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
