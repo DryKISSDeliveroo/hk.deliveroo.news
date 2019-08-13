@@ -241,6 +241,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://hk.deliveroo.news/news/戶戶送呈獻鬼節飲食推介.html</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://hk.deliveroo.news/news/今個情人節借助戶戶送向摯愛打開心扉.html</loc>
     <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -320,6 +326,12 @@
   </url>
   <url>
     <loc>https://hk.deliveroo.news/about/</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://hk.deliveroo.news/tag/chinese-halloween.html</loc>
     <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
