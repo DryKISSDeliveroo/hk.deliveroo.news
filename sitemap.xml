@@ -223,6 +223,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://hk.deliveroo.news/news/戶戶送奉上甜蜜驚喜- - -與眾同賀「國際幸福日」.html</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://hk.deliveroo.news/news/戶戶送搜羅世界各地星級瘦身餐單-助您輕鬆減磅.html</loc>
     <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -332,6 +338,12 @@
   </url>
   <url>
     <loc>https://hk.deliveroo.news/tag/chinese-halloween.html</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://hk.deliveroo.news/tag/happiness-happens-day.html</loc>
     <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -661,6 +673,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://hk.deliveroo.news/news/page/6.html</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://hk.deliveroo.news/deliveroo/page/2.html</loc>
     <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -680,6 +698,12 @@
   </url>
   <url>
     <loc>https://hk.deliveroo.news/deliveroo/page/5.html</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://hk.deliveroo.news/deliveroo/page/6.html</loc>
     <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
