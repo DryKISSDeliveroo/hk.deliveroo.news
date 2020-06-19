@@ -49,12 +49,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://hk.deliveroo.news/news/食糉想食得輕盈?揀戶戶送健康素五糉!.html</loc>
-    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://hk.deliveroo.news/news/戶戶送即將送出巨型pizza浮床.html</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -458,12 +452,6 @@
   </url>
   <url>
     <loc>https://hk.deliveroo.news/about/</loc>
-    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://hk.deliveroo.news/tag/端午節.html</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
