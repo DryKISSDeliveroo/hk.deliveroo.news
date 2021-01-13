@@ -127,7 +127,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://hk.deliveroo.news/news/戶戶送聯手don-don-donki-將日本新年福袋帶到香港.html</loc>
+    <loc>https://hk.deliveroo.news/news/戶戶送公布最新調查結果-預測香港2021年五大飲食趨勢.html</loc>
     <lastmod>2021-01-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -518,6 +518,12 @@
   </url>
   <url>
     <loc>https://hk.deliveroo.news/about/</loc>
+    <lastmod>2021-01-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://hk.deliveroo.news/tag/飲食趨勢.html</loc>
     <lastmod>2021-01-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
