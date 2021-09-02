@@ -187,6 +187,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://hk.deliveroo.news/news/戶戶送攜手百佳擴充生活百貨送遞服務.html</loc>
+    <lastmod>2021-09-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://hk.deliveroo.news/news/全港雞翼迷福音!在家大啖雞翼不是夢.html</loc>
     <lastmod>2021-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -638,6 +644,12 @@
   </url>
   <url>
     <loc>https://hk.deliveroo.news/tag/日本產品.html</loc>
+    <lastmod>2021-09-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://hk.deliveroo.news/tag/生活百貨送遞.html</loc>
     <lastmod>2021-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
