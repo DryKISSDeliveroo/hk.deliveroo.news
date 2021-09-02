@@ -373,6 +373,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://hk.deliveroo.news/news/戶戶送號召餐廳夥伴加入其與樂餉社合作進行的食物募捐活動.html</loc>
+    <lastmod>2021-09-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://hk.deliveroo.news/news/戶戶送與don-don-donki獨家合作以滿足市民對日本商品的狂熱需求.html</loc>
     <lastmod>2021-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -692,6 +698,12 @@
   </url>
   <url>
     <loc>https://hk.deliveroo.news/tag/櫻花.html</loc>
+    <lastmod>2021-09-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://hk.deliveroo.news/tag/食物募捐活動.html</loc>
     <lastmod>2021-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1255,6 +1267,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://hk.deliveroo.news/news/page/11.html</loc>
+    <lastmod>2021-09-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://hk.deliveroo.news/deliveroo/page/2.html</loc>
     <lastmod>2021-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1304,6 +1322,12 @@
   </url>
   <url>
     <loc>https://hk.deliveroo.news/deliveroo/page/10.html</loc>
+    <lastmod>2021-09-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://hk.deliveroo.news/deliveroo/page/11.html</loc>
     <lastmod>2021-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
