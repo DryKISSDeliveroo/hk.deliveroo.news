@@ -529,6 +529,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://hk.deliveroo.news/news/戶戶送於香港引入「signature」服務.html</loc>
+    <lastmod>2021-09-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://hk.deliveroo.news/news/bread-beast-於戶戶送外賣廚房推出全新black-garlic.html</loc>
     <lastmod>2021-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -668,6 +674,12 @@
   </url>
   <url>
     <loc>https://hk.deliveroo.news/tag/「戶戶小廚」.html</loc>
+    <lastmod>2021-09-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://hk.deliveroo.news/tag/戶戶送signature服務.html</loc>
     <lastmod>2021-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
