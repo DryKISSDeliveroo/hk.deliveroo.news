@@ -313,6 +313,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://hk.deliveroo.news/news/戶戶送調查顯示相較其他激勵措施.html</loc>
+    <lastmod>2021-10-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://hk.deliveroo.news/news/戶戶送免費送贈冰藍綠雪糕.html</loc>
     <lastmod>2021-10-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -650,6 +656,12 @@
   </url>
   <url>
     <loc>https://hk.deliveroo.news/tag/世界糧食日.html</loc>
+    <lastmod>2021-10-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://hk.deliveroo.news/tag/飲食文化趨勢.html</loc>
     <lastmod>2021-10-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
