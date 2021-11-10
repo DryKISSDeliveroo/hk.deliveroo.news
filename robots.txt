@@ -4,4 +4,4 @@ Disallow: /search/
 Disallow: /tags/
 Allow: /
 
-Sitemap: https://hk.deliveroo.news/sitemap.xml
+Sitemap: https://foodscene.deliveroo.fr/sitemap.xml
