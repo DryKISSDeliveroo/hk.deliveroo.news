@@ -241,6 +241,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://hk.deliveroo.news/news/情人節限定雪條.html</loc>
+    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://hk.deliveroo.news/news/戶戶送與媽咪雞蛋仔攜手合作-         雞蛋仔快閃店3月24日旺角登場.html</loc>
     <lastmod>2022-02-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -758,6 +764,12 @@
   </url>
   <url>
     <loc>https://hk.deliveroo.news/about/</loc>
+    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://hk.deliveroo.news/tag/戶戶送情人節雪條.html</loc>
     <lastmod>2022-02-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
